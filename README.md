@@ -66,7 +66,7 @@ A curated collection of the best resources to help you prepare for jobs at FAANG
 
 ### **Job Boards and Communities**
 - **Job Boards**:
-  - [Top Jobs Today](http://topjobstoday.com) - Daily FAANG job newsletter (personalize your roles).  
+  - [Top Jobs Today](http://topjobstoday.com) - Daily FAANG job newsletter.  
   - [Wellfound (formerly AngelList)](https://wellfound.com/) - Tech and startup job postings.  
   - [LinkedIn Jobs](https://www.linkedin.com/jobs/) - Curated job postings.
 
